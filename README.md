@@ -1,2 +1,2 @@
 # sem
-This has been changed
+![workflow](https://github.com/noahsaleh/sem/actions/workflows/main.yml/badge.svg)
